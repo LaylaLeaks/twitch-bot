@@ -1,0 +1,19 @@
+{
+  "name": "twitch-bot-v1",
+  "version": "1.0.0",
+  "description": "A Twitch bot that is self-programmable.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaiiOfficial/twitch-bot/issues"
+  },
+  "homepage": "https://github.com/SaiiOfficial/twitch-bot",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
