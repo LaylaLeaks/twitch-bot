@@ -15,7 +15,7 @@ A Twitch Chatbot, with its own programmable commands.
 U need the Access Token!
 
 ## Getting Started
-- [Download] (https://github.com/SaiiOfficial/twitch-bot) And extract the Bot.
+- [Download](https://github.com/LaylaLeaks/twitch-bot) And extract the Bot.
 - Open the **app.js** file inside a text editor of your choice (Visual studio code is recommended) and fill in all required fields.
 - Open the **commands.js** file and add your own commands.
 - Run **install.bat**!
@@ -32,4 +32,4 @@ npm install tmi.js
 - Finally start the bot by opening **run.bat**!
 
 ## Support
-If you like my chatbot, you can follow me on [Twitter](https://twitter.com/intent/follow?screen_name=RealSaii_)!
+If you like my chatbot, you can follow me on [Twitter](https://twitter.com/intent/follow?screen_name=Layla_Leaks)!
