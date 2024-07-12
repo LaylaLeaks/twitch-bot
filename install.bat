@@ -1,5 +1,5 @@
 @ECHO off
 TITLE=Installing Requirements!
-npm install -r requirements.txt
+npm install tmi.js
 echo Done!
 pause

@@ -37,5 +37,5 @@ client.on('chat', function(channel, user, message, _self) {
 });
 
 // If you have any issues please message me on Discord or Twitter and I will respond as quickly as possible!
-// Twitter: @RealSaii_
-// Discord: Saiiofficial#7453
+// Twitter: @Real_Layla_
+// Discord: layla.06

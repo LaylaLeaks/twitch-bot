@@ -3,7 +3,7 @@ A Twitch Chatbot, with its own programmable commands.
 
 ## Example
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1017453875743182868/1066338576524128286/image.png">
+    <img src="https://cdn.discordapp.com/attachments/1098652196649844818/1261406210511343646/msedge_vYA2NM2VNH.png?ex=6692d794&is=66918614&hm=0ad3cf5011553b4c98d58e1dbac285adc2e173edc1d5c73e607a62682cd0826f&">
 </p>
 
 ## Requirements

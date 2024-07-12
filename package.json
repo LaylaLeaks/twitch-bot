@@ -1,6 +1,6 @@
 {
   "name": "twitch-bot-v1",
-  "version": "1.0.0",
+  "version": "1.1",
   "description": "A Twitch bot that is self-programmable.",
   "main": "app.js",
   "scripts": {
@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SaiiOfficial/twitch-bot/issues"
+    "url": "https://github.com/LaylaLeaks/twitch-bot/issues"
   },
-  "homepage": "https://github.com/SaiiOfficial/twitch-bot",
+  "homepage": "https://github.com/LaylaLeaks/twitch-bot",
   "dependencies": {
     "tmi.js": "^1.8.5"
   }
