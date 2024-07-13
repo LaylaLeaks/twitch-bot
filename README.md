@@ -11,8 +11,7 @@ A Twitch Chatbot, with its own programmable commands.
 <a href="https://nodejs.org/en/">- Node.js</a>
 
 - Twitch Bot Token 
-<a href="https://twitchtokengenerator.com/">- Here the Twitch Bot Token</a>
-U need the Access Token!
+<a href="https://twitchtokengenerator.com/">- Here the Twitch Bot Token</a> you need the Access Token!
 
 ## Getting Started
 - [Download](https://github.com/LaylaLeaks/twitch-bot) And extract the Bot.
